@@ -1,7 +1,12 @@
 /* ---------------------------- Customise by Yen -------------------------- */
 
 body {
-	/*background-image: url("https://qa-dteqa-pmi.cs83.force.com/dtetw/servlet/servlet.FileDownload?file=00P4E000001eqCU") !important;*/
+	background:url(https://braniestudio.github.io/pmiandutw/images/Stage2KV-0823.jpg) no-repeat;
+	-moz-background-size: 100%; 
+	-webkit-background-size: 100%; 
+	-o-background-size: 100%; 
+	background-size: 100%;
+	
 	background-color: #FFFFFF!important;
 	font-family: Microsoft JhengHei !important;
 }
