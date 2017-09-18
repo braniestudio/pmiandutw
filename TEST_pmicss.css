@@ -5,7 +5,7 @@ body::before {
     background-repeat: no-repeat;
 }
 
-body::after {
+body {
 	-moz-background-size: 100%;        /*for Firefox*/
 	-webkit-background-size: 100%;        /*for Google Chrome、Safari*/
 	-o-background-size: 100%;        /*for Opera*/
