@@ -1,7 +1,8 @@
 /* ---------------------------- Customise by Yen -------------------------- */
 
 body {
-	background-image: url(https://braniestudio.github.io/pmiandutw/images/Stage2KV-0823.jpg) no-repeat;
+	background-image: url(https://braniestudio.github.io/pmiandutw/images/Stage2KV-0823.jpg);
+    background-repeat: no-repeat;
 	-moz-background-size: 100%;        /*for Firefox*/
 	-webkit-background-size: 100%;        /*for Google Chrome、Safari*/
 	-o-background-size: 100%;        /*for Opera*/
