@@ -4,10 +4,10 @@
 body {
 	background-image: url(https://braniestudio.github.io/pmiandutw/images/preloadbg2.png) !important;
     background-repeat: no-repeat !important;
-    -moz-background-size: 100%;        /*for Firefox*/
-	-webkit-background-size: 100%;        /*for Google Chrome、Safari*/
-	-o-background-size: 100%;        /*for Opera*/
-	background-size: 100%;        /*for IE*/
+    -moz-background-size: 100% !important;        /*for Firefox*/
+	-webkit-background-size: 100% !important;        /*for Google Chrome、Safari*/
+	-o-background-size: 100% !important;        /*for Opera*/
+	background-size: 100% !important;        /*for IE*/
     
 	/*background-color: #FFFFFF!important;
 	font-family: Microsoft JhengHei !important;
