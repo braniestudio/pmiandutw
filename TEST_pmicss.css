@@ -2,8 +2,8 @@
 
 
 body {
-	background-image: url(https://braniestudio.github.io/pmiandutw/images/preloadbg2.png);
-    background-repeat: no-repeat;
+	background-image: url(https://braniestudio.github.io/pmiandutw/images/preloadbg2.png) !important;
+    background-repeat: no-repeat !important;
     -moz-background-size: 100%;        /*for Firefox*/
 	-webkit-background-size: 100%;        /*for Google Chrome、Safari*/
 	-o-background-size: 100%;        /*for Opera*/
