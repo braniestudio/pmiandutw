@@ -135,7 +135,7 @@ img {
 	opacity: .5;
 }
 img:nth-child(1) {
-	padding: 0 10px 10px 10px;
+	/* padding: 0 10px 10px 10px; */
 }
  @media screen and (max-width: 480px) {
 .leftSM,  .rightSM {
